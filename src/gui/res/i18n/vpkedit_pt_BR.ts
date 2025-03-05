@@ -14,7 +14,7 @@
     <message>
       <location filename="../../previews/DirPreview.cpp" line="453"/>
       <source>Delete Entry</source>
-      <translation>Deletar Arquivo</translation>
+      <translation>Deletar arquivo</translation>
     </message>
     <message>
       <location filename="../../previews/DirPreview.cpp" line="453"/>
@@ -50,7 +50,7 @@
     <message>
       <location filename="../../EntryTree.cpp" line="512"/>
       <source>Delete Entry</source>
-      <translation>Deletar Arquivo</translation>
+      <translation>Deletar arquivo</translation>
     </message>
     <message>
       <location filename="../../EntryTree.cpp" line="512"/>
@@ -62,7 +62,7 @@
     <message>
       <location filename="../../EntryTree.cpp" line="399"/>
       <source>Extract to...</source>
-      <translation></translation>
+      <translation>Extrair para...</translation>
     </message>
   </context>
   <context>
@@ -70,7 +70,7 @@
     <message>
       <location filename="../../FileViewer.cpp" line="327"/>
       <source>No available preview.</source>
-      <translation>Sem prévia</translation>
+      <translation>Sem prévia.</translation>
     </message>
     <message>
       <location filename="../../FileViewer.cpp" line="394"/>
@@ -120,12 +120,12 @@ Por favor, confira se não há algum jogo/aplicativo que esteja com ele aberto</
     <message>
       <location filename="../../previews/MDLPreview.cpp" line="536"/>
       <source>All Materials</source>
-      <translation></translation>
+      <translation>Todos os Materials</translation>
     </message>
     <message>
       <location filename="../../previews/MDLPreview.cpp" line="612"/>
       <source>Folders</source>
-      <translation></translation>
+      <translation>Pastas</translation>
     </message>
     <message>
       <location filename="../../previews/MDLPreview.cpp" line="620"/>
@@ -159,7 +159,7 @@ Por favor, confira se não há algum jogo/aplicativo que esteja com ele aberto</
     <message>
       <location filename="../../dialogs/NewUpdateDialog.cpp" line="12"/>
       <source>New Update Available</source>
-      <translation>Nova Atualização Disponivel</translation>
+      <translation>Nova Atualização Disponível</translation>
     </message>
     <message>
       <location filename="../../dialogs/NewUpdateDialog.cpp" line="14"/>
@@ -172,9 +172,9 @@ Latest version:  %2
 [Click here to go to the release on GitHub.](%3)</source>
       <translation>Nova atualização disponível!
 
-Versão usada: v%1
+Versão atual: v%1
 
-Versão nova: &amp;2
+Versão mais recente: &amp;2
 
 [Clique aqui para baixar a nova versão no GitHub.](&amp;3)</translation>
     </message>
@@ -211,7 +211,7 @@ Breaks if the file's size will be &gt;= 4gb!</source>
     <message>
       <location filename="../../dialogs/PackFileOptionsDialog.cpp" line="58"/>
       <source>None</source>
-      <translation></translation>
+      <translation>Nenhum</translation>
     </message>
     <message>
       <location filename="../../dialogs/PackFileOptionsDialog.cpp" line="59"/>
@@ -220,7 +220,7 @@ Breaks if the file's size will be &gt;= 4gb!</source>
     </message>
     <message>
       <location filename="../../dialogs/PackFileOptionsDialog.cpp" line="68"/>
-      <source>Compression Type Override:</source>
+      <source>Substituição do tipo de compressão:</source>
       <translation></translation>
     </message>
     <message>
@@ -330,13 +330,13 @@ Olha abaixo para mais informações.</translation>
     <message>
       <location filename="../../Window.cpp" line="859"/>
       <source>Open File</source>
-      <translation>Abrir Arquivo</translation>
+      <translation>Abrir arquivo</translation>
     </message>
     <message>
       <location filename="../../Window.cpp" line="633"/>
       <location filename="../../Window.cpp" line="905"/>
       <source>Open Folder</source>
-      <translation>Abrir Pasta</translation>
+      <translation>Abrir pasta</translation>
     </message>
     <message>
       <location filename="../../Window.cpp" line="948"/>
@@ -373,13 +373,13 @@ Olha abaixo para mais informações.</translation>
     <message>
       <location filename="../../Window.cpp" line="1294"/>
       <source>Extract as...</source>
-      <translation>Extrair como</translation>
+      <translation>Extrair como...</translation>
     </message>
     <message>
       <location filename="../../Window.cpp" line="1305"/>
       <location filename="../../Window.cpp" line="1370"/>
       <source>Extract to...</source>
-      <translation>Extrair para</translation>
+      <translation>Extrair para...</translation>
     </message>
     <message>
       <location filename="../../Window.cpp" line="1396"/>
@@ -429,7 +429,7 @@ Olha abaixo para mais informações.</translation>
     <message>
       <location filename="../../Window.cpp" line="134"/>
       <source>Open Recent...</source>
-      <translation>Abrir Recente...</translation>
+      <translation>Abrir recente...</translation>
     </message>
     <message>
       <location filename="../../Window.cpp" line="137"/>
@@ -519,22 +519,22 @@ Olha abaixo para mais informações.</translation>
     <message>
       <location filename="../../Window.cpp" line="354"/>
       <source>Help</source>
-      <translation></translation>
+      <translation>Ajuda</translation>
     </message>
     <message>
       <location filename="../../Window.cpp" line="358"/>
       <source>About Qt</source>
-      <translation></translation>
+      <translation>Sobre o Qt</translation>
     </message>
     <message>
       <location filename="../../Window.cpp" line="333"/>
       <source>Tools</source>
-      <translation></translation>
+      <translation>Ferramentas</translation>
     </message>
     <message>
       <location filename="../../Window.cpp" line="335"/>
       <source>General</source>
-      <translation></translation>
+      <translation>Geral</translation>
     </message>
     <message>
       <location filename="../../Window.cpp" line="336"/>
@@ -554,7 +554,7 @@ Olha abaixo para mais informações.</translation>
     <message>
       <location filename="../../Window.cpp" line="424"/>
       <source>Search...</source>
-      <translation></translation>
+      <translation>Pesquisar...</translation>
     </message>
     <message>
       <location filename="../../Window.cpp" line="1673"/>
@@ -599,17 +599,17 @@ Olha abaixo para mais informações.</translation>
     <message>
       <location filename="../../Window.cpp" line="1200"/>
       <source>Created by %1</source>
-      <translation></translation>
+      <translation>Criado por %1</translation>
     </message>
     <message>
       <location filename="../../Window.cpp" line="153"/>
       <source>Donate On Ko-fi...</source>
-      <translation></translation>
+      <translation>Doar no Ko-fi...</translation>
     </message>
     <message>
       <location filename="../../Window.cpp" line="220"/>
       <source>System Language</source>
-      <translation></translation>
+      <translation>Idioma do sistema</translation>
     </message>
     <message>
       <location filename="../../Window.cpp" line="292"/>
@@ -689,7 +689,7 @@ Olha abaixo para mais informações.</translation>
     <message>
       <location filename="../../Window.cpp" line="77"/>
       <source>Create...</source>
-      <translation></translation>
+      <translation>Criar...</translation>
     </message>
     <message>
       <location filename="../../Window.cpp" line="100"/>
@@ -719,27 +719,27 @@ Olha abaixo para mais informações.</translation>
     <message>
       <location filename="../../Window.cpp" line="127"/>
       <source>Open Folder...</source>
-      <translation></translation>
+      <translation>Abrir pasta...</translation>
     </message>
     <message>
       <location filename="../../Window.cpp" line="1153"/>
-      <source>Renaming folder... Aborting this process will not roll back changes made so far.</source>
+      <source>Renaming folder... Abort ing this process will not roll back changes made so far.</source>
       <translation></translation>
     </message>
     <message>
       <location filename="../../Window.cpp" line="176"/>
       <source>Add Files...</source>
-      <translation></translation>
+      <translation>Adicionar arquivos...</translation>
     </message>
     <message>
       <location filename="../../Window.cpp" line="896"/>
       <source>Open Files</source>
-      <translation></translation>
+      <translation>Abrir arquivos</translation>
     </message>
     <message>
       <location filename="../../Window.cpp" line="195"/>
       <source>General...</source>
-      <translation></translation>
+      <translation>Geral...</translation>
     </message>
   </context>
   <context>
@@ -757,12 +757,12 @@ Canais: %2</translation>
     <message>
       <location filename="../../dialogs/EntryOptionsDialog.cpp" line="60"/>
       <source>(Advanced) Edit Folder</source>
-      <translation>(Avançado) Editar Pasta</translation>
+      <translation>(Avançado) Editar pasta</translation>
     </message>
     <message>
       <location filename="../../dialogs/EntryOptionsDialog.cpp" line="62"/>
       <source>(Advanced) Edit File</source>
-      <translation>(Avançado) Editar Arquivo</translation>
+      <translation>(Avançado) Editar arquivo</translation>
     </message>
     <message>
       <location filename="../../dialogs/EntryOptionsDialog.cpp" line="66"/>
@@ -777,7 +777,7 @@ Canais: %2</translation>
     <message>
       <location filename="../../dialogs/EntryOptionsDialog.cpp" line="74"/>
       <source>Edit Folder</source>
-      <translation>Editar Pasta</translation>
+      <translation>Editar pasta</translation>
     </message>
     <message>
       <location filename="../../dialogs/EntryOptionsDialog.cpp" line="76"/>
@@ -847,7 +847,7 @@ instead of the directory:</source>
     <message>
       <location filename="../../previews/DirPreview.cpp" line="46"/>
       <source>Size</source>
-      <translation></translation>
+      <translation>Tamanho</translation>
     </message>
     <message>
       <location filename="../../previews/DirPreview.cpp" line="48"/>
@@ -878,12 +878,12 @@ instead of the directory:</source>
     <message>
       <location filename="../../previews/DirPreview.cpp" line="68"/>
       <source>Name</source>
-      <translation></translation>
+      <translation>Nome</translation>
     </message>
     <message>
       <location filename="../../previews/DirPreview.cpp" line="69"/>
       <source>Type</source>
-      <translation></translation>
+      <translation>Tipo</translation>
     </message>
     <message>
       <location filename="../../utility/AudioPlayer.cpp" line="50"/>
@@ -921,7 +921,7 @@ instead of the directory:</source>
     <message>
       <location filename="../../previews/DMXPreview.cpp" line="17"/>
       <source>Value</source>
-      <translation></translation>
+      <translation>Valor</translation>
     </message>
     <message>
       <location filename="../../previews/DMXPreview.cpp" line="25"/>
@@ -931,7 +931,7 @@ instead of the directory:</source>
     <message>
       <location filename="../../previews/DMXPreview.cpp" line="40"/>
       <source>Type</source>
-      <translation></translation>
+      <translation>Tipo</translation>
     </message>
     <message>
       <location filename="../../previews/DMXPreview.cpp" line="44"/>
@@ -941,7 +941,7 @@ instead of the directory:</source>
     <message>
       <location filename="../../previews/DMXPreview.cpp" line="49"/>
       <source>Attributes</source>
-      <translation></translation>
+      <translation>Atributos</translation>
     </message>
   </context>
   <context>
@@ -980,17 +980,17 @@ instead of the directory:</source>
     <message>
       <location filename="../../previews/TextPreview.cpp" line="196"/>
       <source>Edit</source>
-      <translation></translation>
+      <translation>Editar</translation>
     </message>
     <message>
       <location filename="../../previews/TextPreview.cpp" line="201"/>
       <source>Save</source>
-      <translation></translation>
+      <translation>Salvar</translation>
     </message>
     <message>
       <location filename="../../previews/TextPreview.cpp" line="207"/>
       <source>Cancel</source>
-      <translation></translation>
+      <translation>Cancelar</translation>
     </message>
   </context>
   <context>
@@ -1071,7 +1071,7 @@ instead of the directory:</source>
     <message>
       <location filename="../../dialogs/VICEDialog.cpp" line="61"/>
       <source>Value:</source>
-      <translation></translation>
+      <translation>Valor:</translation>
     </message>
   </context>
   <context>
@@ -1110,19 +1110,19 @@ instead of the directory:</source>
     <message>
       <location filename="../../EntryContextMenuData.cpp" line="16"/>
       <source>Extract Folder...</source>
-      <translation></translation>
+      <translation>Extrair pasta...</translation>
     </message>
     <message>
       <location filename="../../EntryContextMenuData.cpp" line="18"/>
       <location filename="../../EntryContextMenuData.cpp" line="35"/>
       <source>Add Files...</source>
-      <translation></translation>
+      <translation>Adicionar arquivos...</translation>
     </message>
     <message>
       <location filename="../../EntryContextMenuData.cpp" line="19"/>
       <location filename="../../EntryContextMenuData.cpp" line="36"/>
       <source>Add Folder...</source>
-      <translation></translation>
+      <translation>Adicionar pasta...</translation>
     </message>
     <message>
       <location filename="../../EntryContextMenuData.cpp" line="21"/>
@@ -1132,7 +1132,7 @@ instead of the directory:</source>
     <message>
       <location filename="../../EntryContextMenuData.cpp" line="24"/>
       <source>Remove Folder</source>
-      <translation></translation>
+      <translation>Remover pasta</translation>
     </message>
     <message>
       <location filename="../../EntryContextMenuData.cpp" line="27"/>
